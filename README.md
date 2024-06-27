@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
 <img src="http://drive.google.com/uc?id=14NCza3EuXOviuqmP0s-jhqsadpR15-Ey" alt="Description" width="400"> </p>
 
@@ -29,4 +27,4 @@ Here's are some of my most recent passion projects:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain-wordmark.svg" width="38" height="38"/>
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreedev&show_icons=true)

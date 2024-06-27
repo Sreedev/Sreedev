@@ -1,9 +1,11 @@
-<p align="center">
-<img src="http://drive.google.com/uc?id=14NCza3EuXOviuqmP0s-jhqsadpR15-Ey" alt="Description" width="400"> </p>
-
 # <p align="center">Hi, I'm Sreedev 👋. I am a Data Engineer.</p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](example.com) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](example.com)  ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+<p align="center">
+    <a href="https://www.linkedin.com/in/sah-eddine-ait-daoud/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
+    <a href="mailto:sreedev.r5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
+    <a href="https://mydatalchemist.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" height=23></a>
+    <a href="https://www.hackerrank.com/profile/sreedev_r5" ><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=23></a>
+</p>
 
 I'm Sreedev, a driven professional passionate about data, with 9 years of experience in the software industry, building 25+ Android apps and delivering 50+ features. I hold a postgraduate degree in Artificial Intelligence and Data Science from Loyalist College, Toronto, and my portfolio showcases 3 passion projects on data engineering. I am a dedicated team player with experience managing teams of up to 12 members across industries such as banking and healthcare.
 

@@ -17,8 +17,8 @@ Click [here]([example.com](https://medium.com/@sreedev.r5)) to check out by blog
 ## Projects
 
 Here's are some of my most recent passion projects:
-- **[Sales analysis - Pizza store data](https://github.com/your-repo-link)**.
-- **[DVD rental - Data warehousing](https://github.com/your-repo-link)**.
+- **[Sales analysis - Pizza store data](https://medium.com/@sreedev.r5/pizza-sales-analysis-end-to-end-data-engineering-project-postgres-sql-python-pandas-power-bi-a20c321c4c56)**.
+- **[DVD rental - Data warehousing](https://medium.com/@sreedev.r5/dvd-rental-datawarehouse-end-to-end-data-engineering-project-postgres-sql-pg-admin-draw-io-2c60f0f523bd)**.
 
 ## Languages and Tools:
 

@@ -19,7 +19,6 @@ Click [here]([example.com](https://medium.com/@sreedev.r5)) to check out by blog
 Here's are some of my most recent passion projects:
 - **[Sales analysis - Pizza store data](https://github.com/your-repo-link)**.
 - **[DVD rental - Data warehousing](https://github.com/your-repo-link)**.
-- **[Olymbic data analysis - Azure coud](https://github.com/your-repo-link)**.
 
 ## Languages and Tools:
 

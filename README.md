@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/sreedev-data-engg/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
     <a href="mailto:sreedev.r5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
-    <a href="www.devtodata.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" height=23></a>
+    <a href="http://www.devtodata.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" height=23></a>
     <a href="https://www.hackerrank.com/profile/sreedev_r5" ><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=23></a>
 </p>
 
